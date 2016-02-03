@@ -9,7 +9,7 @@
 <link rel="stylesheet" type="text/css" href="../css/main.css" />
 
 <title>Product</title>
-<title>bugfix1</title>
+
 
 <script type="text/javascript">
 function clearForm() {
@@ -27,6 +27,8 @@ function clearForm() {
 <h3>Welcome ${user.custid}</h3>
 
 <h3>Product Table</h3>
+
+<h3>bugfix2</h3>
 
 <form action="<c:url value="/pages/product.controller" />" method="post">
 <table>
