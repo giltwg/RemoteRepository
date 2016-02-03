@@ -26,6 +26,9 @@ public class ProductServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
 
+		//Git Test
+		System.out.println("git test!!");
+		
 //接收資料
 		String temp1 = request.getParameter("id");
 		String name = request.getParameter("name");
