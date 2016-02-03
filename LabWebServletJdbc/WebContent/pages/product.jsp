@@ -9,6 +9,8 @@
 <link rel="stylesheet" type="text/css" href="../css/main.css" />
 
 <title>Product</title>
+<title>bugfix1</title>
+
 <script type="text/javascript">
 function clearForm() {
 	var inputs = document.getElementsByTagName("input");
